@@ -6,7 +6,8 @@ $targets = @(
     "67762961/Paper_sweeper",
     "67762961/Mirror_export",
     "67762961/Driver_Tester",
-    "67762961/Wave_controller"
+    "67762961/Wave_controller",
+    "67762961/Csv_viewer"
 )
 
 $dryRun = $true
